@@ -1,1 +1,1 @@
-# sum-of-two-numbers
+c code
